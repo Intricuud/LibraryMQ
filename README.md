@@ -1,11 +1,9 @@
-## COMP3130 Major Work Deliverable 2 (Implementation and Testing)
+## Library Space Booking Application
 Author: Intarawat Thanundornwat
-
-### Library Space Booking Application
 
 This application allows users (students) to log in, create, view, update, and delete their library space bookings. It was developed using the iOS simulator with an iPhone 13 as the target device.
 
-#### Main Sections
+### Main Sections
 
 1. **Login/Signup**
    - Users can sign up using their email and password to create a new account. Authentication is provided by Firebase.
@@ -28,7 +26,7 @@ This application allows users (students) to log in, create, view, update, and de
 7. **Account**
    - Displays the user’s name, email, and booking number. Users can log out from here, returning to the login page.
 
-#### Differences Between Mockup and Real Application
+### Differences Between Mockup and Real Application
 
 1. **Addition of Login/Signup Page**
    - Introduced based on feedback that the app should have a login page, as it is intended for students only.
@@ -57,7 +55,7 @@ This application allows users (students) to log in, create, view, update, and de
 9. **Theme Selection**
    - Added a function for users to toggle between light (default) and dark themes.
 
-#### Notes for Future Developers
+### Notes for Future Developers
 
 - **Testing Suite Limitations**
   - The test suite is limited due to the use of fixed dimensions, making the application inflexible. To improve, standardize the screen styles for better testability.
