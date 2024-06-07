@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "121955424187",
+    "firebase_url": "https://librarymq-348b6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "librarymq-348b6",
+    "storage_bucket": "librarymq-348b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121955424187:android:1e8112796e2e3ddb48d69e",
+        "android_client_info": {
+          "package_name": "com.example.mq_library_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX6OTXieluRB4E5DepxwuzkMt66OinT78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
